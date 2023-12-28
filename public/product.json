@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "image": "1.jpg",
+        "name": "Product 1",
+        "reviewStar": 4.5,
+        "price": 50,
+        "priceOffer": 10,
+        "discountPercentage": 4,
+        "description": "Description of Product 1"
+      },
+      {
+        "id": 2,
+        "image": "2.jpg",
+        "name": "Product 2",
+        "reviewStar": 4.2,
+        "price": 60,
+        "priceOffer": 15,
+        "discountPercentage": 5,
+        "description": "Description of Product 2"
+      },
+      {
+        "id": 3,
+        "image": "3.jpg",
+        "name": "Product 3",
+        "reviewStar": 5.0,
+        "price": 70,
+        "priceOffer": 20,
+        "discountPercentage": 6,
+        "description": "Description of Product 3"
+      },
+    {
+      "id": 4,
+      "image": "4.jpg",
+      "name": "Product 4",
+      "reviewStar": 0.0,
+      "price": 80,
+      "priceOffer": 20,
+      "discountPercentage": 7,
+      "description": "Description of Product 4"
+    },
+    {
+      "id": 5,
+      "image": "1.jpg",
+      "name": "Product 5",
+      "price": 90,
+      "reviewStar": 1.0,
+      "priceOffer": 20,
+      "discountPercentage": 8,
+      "description": "Description of Product 5"
+    },
+    {
+      "id": 6,
+      "image": "2.jpg",
+      "name": "Product 6",
+      "price": 100,
+      "reviewStar": 3.7,
+      "priceOffer": 20,
+      "discountPercentage": 9,
+      "description": "Description of Product 6"
+    },
+    {
+      "id": 7,
+      "image": "3.jpg",
+      "name": "Product 7",
+      "price": 110,
+      "reviewStar": 2.5,
+      "priceOffer": 20,
+      "discountPercentage": 10,
+      "description": "Description of Product 7"
+    },
+    {
+      "id": 8,
+      "image": "4.jpg",
+      "name": "Product 8",
+      "price": 120,
+      "reviewStar": 1.9,
+      "priceOffer": 20,
+      "discountPercentage": 15,
+      "description": "Description of Product 8"
+    }
+  ]
+  
